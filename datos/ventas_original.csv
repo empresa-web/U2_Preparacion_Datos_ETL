@@ -1,0 +1,123 @@
+﻿id_venta,fecha,id_producto,producto,categoria,marca,id_sucursal,sucursal,ciudad,estado,id_pago,metodo_pago,cantidad,precio_unitario
+1,2026-07-04,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,2,250
+2,2026-07-07,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,470
+3,2026-07-10,4, MONITOR ,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,2,3300
+4,2026-07-13,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,3,920
+5,2026-07-16,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,2600
+6,2026-07-19,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,8500
+7,2026-07-22,2,Mouse,accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,5,250
+8,2026-07-25,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,tarj.,4,470
+9,2026-07-28,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,2,3300
+10,2026-07-31,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,1,920
+11,03/08/2026,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+12,2026-08-06,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,3,8500
+13,2026-08-09,2, MOUSE ,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,3,250
+14,2026-08-12,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,$470
+15,2026-08-15,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,3,3300
+16,2026-08-18,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+17,2026-08-21,6,Impresora,electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+18,2026-08-24,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,efect.,4,8500
+19,2026-08-27,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+20,2026-08-30,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,470
+21,02/09/2026,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,5,3300
+22,2026-09-05,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,4,920
+23,2026-09-08,6, IMPRESORA ,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+24,2026-09-11,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,$8500
+25,2026-09-14,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+26,2026-09-17,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,470
+27,2026-09-20,4,Monitor,electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,2,3300
+28,2026-09-23,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,transf.,5,920
+29,2026-09-26,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,5,2600
+30,2026-07-01,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,3,8500
+31,04/07/2026,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,3,250
+32,2026-07-07,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,5,470
+33,2026-07-10,4, MONITOR ,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,4,3300
+34,2026-07-13,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,3,920
+35,2026-07-16,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,2600
+36,2026-07-19,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,8500
+37,2026-07-22,2,Mouse,accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+38,2026-07-25,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,470
+39,2026-07-28,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,1,3300
+40,2026-07-31,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,,920
+41,2026-08-03,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+42,2026-08-06,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,5,8500
+43,2026-08-09,2, MOUSE ,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,5,250
+44,2026-08-12,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,470
+45,2026-08-15,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,4,3300
+46,2026-08-18,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+47,2026-08-21,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+48,2026-08-24,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,1,8500
+49,2026-08-27,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+50,2026-08-30,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,,470
+51,2026-09-02,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,1,3300
+52,2026-09-05,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,4,920
+53,2026-09-08,6, IMPRESORA ,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,5,2600
+54,2026-09-11,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,1,8500
+55,2026-09-14,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+56,2026-09-17,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,470
+57,2026-09-20,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,5,3300
+58,2026-09-23,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+59,2026-09-26,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,2600
+60,2026-07-01,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,1,8500
+61,2026-07-04,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,5,250
+62,2026-07-07,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,470
+63,2026-07-10,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,5,3300
+64,2026-07-13,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+65,2026-07-16,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,2600
+66,2026-07-19,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,1,8500
+67,2026-07-22,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,3,250
+68,2026-07-25,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,470
+69,2026-07-28,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,3,3300
+70,2026-07-31,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+71,2026-08-03,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,2600
+72,2026-08-06,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,1,8500
+73,2026-08-09,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+74,2026-08-12,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,470
+75,2026-08-15,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,-2,3300
+76,2026-08-18,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,1,920
+77,2026-08-21,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,2600
+78,2026-08-24,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,3,8500
+79,2026-08-27,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,5,250
+80,2026-08-30,999,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,5,470
+81,2026-09-02,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,1,3300
+82,2026-09-05,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,1,920
+83,2026-09-08,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,2600
+84,2026-09-11,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,5,8500
+85,2026-09-14,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+86,2026-09-17,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,470
+87,2026-09-20,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,3,3300
+88,2026-09-23,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,1,920
+89,2026-09-26,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,2600
+90,2026-07-01,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,4,8500
+91,2026-07-04,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,3,250
+92,2026-07-07,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,470
+93,2026-07-10,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,2,3300
+94,2026-07-13,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,3,920
+95,2026-07-16,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,-2,2600
+96,2026-07-19,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,8500
+97,2026-07-22,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,3,250
+98,2026-07-25,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,470
+99,2026-07-28,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,5,3300
+100,2026-07-31,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+101,2026-08-03,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,2600
+102,2026-08-06,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,4,8500
+103,2026-08-09,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+104,2026-08-12,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,470
+105,2026-08-15,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,2,3300
+106,2026-08-18,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,1,920
+107,2026-08-21,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,3,2600
+108,2026-08-24,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,5,8500
+109,2026-08-27,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,4,250
+110,2026-08-30,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,470
+111,2026-09-02,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,3,3300
+112,2026-09-05,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+113,2026-09-08,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,2600
+114,2026-09-11,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,8500
+115,2026-09-14,2,Mouse,Accesorios,Logitech,3,Sur,Arteaga,Coahuila,3,Transferencia,5,250
+116,2026-09-17,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,2,470
+117,2026-09-20,4,Monitor,Electrónica,Samsung,1,Centro,Saltillo,Coahuila,1,Efectivo,3,3300
+118,2026-09-23,5,Audífonos,Accesorios,Sony,3,Sur,Arteaga,Coahuila,3,Transferencia,5,920
+119,2026-09-26,6,Impresora,Electrónica,HP,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,4,2600
+120,2026-07-01,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,5,8500
+6,2026-07-19,1,Laptop,Electrónica,Lenovo,1,Centro,Saltillo,Coahuila,1,Efectivo,2,8500
+20,2026-08-30,3,Teclado,Accesorios,Logitech,2,Norte,Ramos Arizpe,Coahuila,2,Tarjeta,1,470

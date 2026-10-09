@@ -1,0 +1,16 @@
+{
+  "origen": "Dataset simulado para fines académicos",
+  "registros_originales": 122,
+  "registros_limpios": 115,
+  "registros_descartados": 7,
+  "ventas_total_mxn": 910320.0,
+  "acciones": {
+    "cantidades_faltantes_descartadas": 2,
+    "cantidades_invalidas_descartadas": 2,
+    "catalogos_normalizados": 13,
+    "duplicados_eliminados": 2,
+    "fechas_normalizadas": 3,
+    "ids_desconocidos_descartados": 1,
+    "precios_normalizados": 2
+  }
+}
