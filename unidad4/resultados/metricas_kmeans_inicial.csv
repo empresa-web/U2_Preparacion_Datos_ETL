@@ -1,0 +1,2 @@
+Modelo,Clusters,Silhouette,Calinski_Harabasz,Davies_Bouldin
+KMeans inicial,3,0.47549114431999917,117.94739966051795,0.7659491455772395
